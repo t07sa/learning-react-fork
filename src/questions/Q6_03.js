@@ -52,10 +52,10 @@ export default function Q6_02() {
         <p>members</p>
         <ul>
           <li>
-            <p>名前:<span>A</span>さん</p>
-            <p>年齢:<span>20</span>歳</p>
-            <p>身長:<span>160</span>cm</p>
-            <p>体重:<span>50</span>kg</p>
+            <p>名前:<span>name</span>さん</p>
+            <p>年齢:<span>age</span>歳</p>
+            <p>身長:<span>height</span>cm</p>
+            <p>体重:<span>weight</span>kg</p>
           </li>
         </ul>
       {/* ↑↑↑ 描画する内容を書く ↑↑↑ */}

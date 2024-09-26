@@ -23,7 +23,13 @@ export default function Q6_01() {
       <h1 className='question-title'>Q6_01</h1>
       <div className='question-content'>
       {/* ↓↓↓ 描画する内容を書く ↓↓↓ */}
-
+      const heading = React.createElement(
+    "h1",
+    {className="竹井翼" }
+    {className="13" }
+    {className="9月26日" }
+    "Hello World!"
+);
       {/* ↑↑↑ 描画する内容を書く ↑↑↑ */}
       </div>
     </div>
