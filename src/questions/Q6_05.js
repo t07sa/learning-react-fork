@@ -51,6 +51,12 @@ export default function Q6_05() {
       {/* ↓↓↓ 描画する内容を書く ↓↓↓ */}
         <p>members</p>
         <ul>
+          <li>
+          name: "Naoi",
+          age: "19",
+          height: "190",
+          weight: "100"
+          </li>
           {/* コンポーネント呼び出し */}
         </ul>
       {/* ↑↑↑ 描画する内容を書く ↑↑↑ */}
